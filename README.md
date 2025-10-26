@@ -13,6 +13,7 @@ Platform Windows Tested on Windows 11
 # Libraries & Plugins Used
 
 OpenCV plus Unity 1.7.1 This Library adapted OpenCVSharp (open source C# port of OpenCV) to Unity environment.
+Link assetstore https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928
 
 # Unity Project Setup Notes
 
