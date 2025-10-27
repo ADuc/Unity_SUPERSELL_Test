@@ -2,7 +2,7 @@
 
 # Overview
 A Unity project that uses OpenCV to detect and track a user's face using a regular webcam.  
-Useful for camera control, AR experiments, or basic motion-tracking demos no VR headset required.
+Useful for camera control, basic motion-tracking demos without requiring an HMD
 
 # Tech Stack & Versions
 
